@@ -1,4 +1,3 @@
-import java.util.Scanner;
 abstract class Shapes
 {
  int a,b,c;
